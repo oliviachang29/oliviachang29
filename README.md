@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**oliviachang29/oliviachang29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Olivia (she/her/hers). I'm an incoming student at Olin College of Engineering.
 
-Here are some ideas to get you started:
+### 💻 Experience
+* 2020 Software Engineering Intern @ Limelight Health
+* 2019 Software Engineering Intern @ Limelight Health
+* 2018 Software Development Intern @ InPlay.org
+* 2019-2020 Head of Web Development @ HAX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun facts
+* I've read [Harry Potter](https://hpquotes.oliviachang.me/) 11 times.
+* I spout [Avatar: The Last Airbender quotes](https://iroh.oliviachang.me/) at every possible moment.
+* Here are [my favorite xkcd comics](https://www.notion.so/Best-of-xkcd-ranked-ec0a6a362cb549e98faa38fda34d0c09).
+
+
+### 🔭 I’m currently working on ...
+* An Avatar themed nightlight that runs Mycroft
+* A font recommendations website
+
+### 📫 How to reach me:
+
+Email [hello@oliviachang.me](hello@oliviachang.me) if you have a question, want to work with me, or just want to say hi!
