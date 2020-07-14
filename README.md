@@ -2,21 +2,15 @@
 
 Hi! I'm Olivia (she/her/hers). I'm an incoming student at Olin College of Engineering.
 
-### 💻 Experience
-* 2020 Software Engineering Intern @ Limelight Health
-* 2019 Software Engineering Intern @ Limelight Health
-* 2018 Software Development Intern @ InPlay.org
-* 2019-2020 Head of Web Development @ HAX
-
 ### ⚡ Fun facts
 * I've read [Harry Potter](https://hpquotes.oliviachang.me/) 11 times.
 * I spout [Avatar: The Last Airbender quotes](https://iroh.oliviachang.me/) at every possible moment.
 * Here are [my favorite xkcd comics](https://www.notion.so/Best-of-xkcd-ranked-ec0a6a362cb549e98faa38fda34d0c09).
 
-
 ### 🔭 I’m currently working on ...
 * An Avatar themed nightlight that runs Mycroft
 * A font recommendations website
+* Awesome client websites!
 
 ### 📫 How to reach me:
 
