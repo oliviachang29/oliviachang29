@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Hi! I'm Olivia (she/her/hers). I'm an incoming student at Olin College of Engineering.
+Hi! I'm Olivia (she/her/hers).
 
 ### ⚡  Fun facts
 * I've read [Harry Potter](https://hpquotes.oliviachang.me/) 11 times.
